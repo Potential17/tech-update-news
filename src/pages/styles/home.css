@@ -1,0 +1,39 @@
+.header__section {
+  background-color: #f68b01;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+}
+
+.header__section img {
+  height: 40px;
+  margin: 5px 0 5px 0;
+}
+
+.home__select-country {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.home__select-country img {
+  cursor: pointer;
+  height: 30px;
+  margin: 0 18px;
+  border-radius: 50%;
+}
+
+.home__content-section {
+  margin-top: 60px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  border-top: 1px solid #f68c015b;
+  height: 20px;
+  font-size: small;
+  padding: 8px;
+}
